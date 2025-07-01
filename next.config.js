@@ -1,6 +1,4 @@
-// next.config.js
-module.exports = {
-  api: {
-    bodyParser: false,
-  },
-};
+/** @type {import('next').NextConfig} */
+const nextConfig = {}
+
+module.exports = nextConfig
